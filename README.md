@@ -17,8 +17,7 @@ I specialize in building robust and scalable backend solutions using **Java (Spr
 
 ## 📈 Projects & Work  
 - Tracking **server response times** & **transaction counts** across production systems  
-- Developing a **chat app** and a **car cleaning service app**  
-- Working on **order management & product models**  
+- Developing a **car cleaning service app**  
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fakhruddin-aiman/)  
