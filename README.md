@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Aeman! 👋  
 
-<!--
-**waimancoder/waimancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Backend Developer | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+I specialize in building robust and scalable backend solutions using **Java (Spring Boot), Django, Laravel, and Golang**. Passionate about optimizing performance, tracking server response times, and enhancing system efficiency.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack  
+- **Backend:** Java (Spring Boot), Django
+- **Databases:** PostgreSQL, MySQL  
+- **Frontend:** Thymeleaf, React  
+- **Tools & DevOps:** Docker, Git, VS Code, iTerm  
+
+## 🔍 Current Focus  
+- **Building Scalable Systems** 🏗️  
+- **Optimizing API Performance** 🚀  
+- **Mastering Software Architecture & Leadership** 🎯  
+
+## 📈 Projects & Work  
+- Tracking **server response times** & **transaction counts** across production systems  
+- Developing a **chat app** and a **car cleaning service app**  
+- Working on **order management & product models**  
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fakhruddin-aiman/)  
+- 📝 [Portfolio]()  
+- 📧 Email: wfakhruaiman@gmail.com
+
+💡 *Always learning, always building. Let’s connect and create something amazing!*  
+
