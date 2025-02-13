@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Backend Developer | Tech Enthusiast**  
 
-I specialize in building robust and scalable backend solutions using **Java (Spring Boot), Django, Laravel, and Golang**. Passionate about optimizing performance, tracking server response times, and enhancing system efficiency.  
+I specialize in building robust and scalable backend solutions using **Java (Spring Boot) and Django**. Passionate about optimizing performance, tracking server response times, and enhancing system efficiency.  
 
 ## 💻 Tech Stack  
 - **Backend:** Java (Spring Boot), Django
